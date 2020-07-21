@@ -1,0 +1,11 @@
+PYTHON and GIT
+
+in Powershell run   python hello.py
+
+to install a module:  eg Requests
+
+pip install Requests
+
+to upload git changes:   'git add hello.py'
+
+to check status:  git status
