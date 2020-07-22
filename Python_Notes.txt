@@ -6,6 +6,15 @@ to install a module:  eg Requests
 
 pip install Requests
 
+to upload changes to git need to:
+1.  add
+2. commit
+3. push
+
 to upload git changes:   'git add hello.py'
 
 to check status:  git status
+
+to commit with no vi window :  git commit -m "python training"
+
+to push: git push
